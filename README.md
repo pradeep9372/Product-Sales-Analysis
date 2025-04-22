@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard that provides a detailed analysis of product sales across various dimensions. The dashboard helps in identifying sales trends, monitoring performance, and uncovering opportunities for growth and optimization.
 
-![Sales Overview Dashboard](./1a354830-090c-4e23-ae56-0bf3e77b8013.png)
+![Sales Overview Dashboard]("C:\Users\Pradeep Gupta\OneDrive\Pictures\Screenshots\Screenshot 2025-04-22 132624.png")
 
 ## 🗂️ Project Overview
 
