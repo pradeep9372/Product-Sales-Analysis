@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard that provides a detailed analysis of product sales across various dimensions. The dashboard helps in identifying sales trends, monitoring performance, and uncovering opportunities for growth and optimization.
 
+![Sales Overview Dashboard](./1a354830-090c-4e23-ae56-0bf3e77b8013.png)
+
 ## 🗂️ Project Overview
 
 The **Product Sales** dashboard is designed to provide business users and decision-makers with valuable insights into product performance over time. The report includes visual breakdowns of key sales metrics and highlights trends by region, category, and sales channel.
@@ -14,9 +16,21 @@ The **Product Sales** dashboard is designed to provide business users and decisi
 - Understand regional sales distribution.
 - Compare online vs offline sales.
 
+
+## 🧾 Description
+
+The **Product Sales Analysis** dashboard provides deep insights into:
+
+- Total Sales, Orders, and Returns
+- Sales by Product Category, Region, and Country
+- Time-based trends in adjusted and raw sales
+- Performance against goals (Sales & Orders)
+- Customer segmentation by income status
+
 ## 📁 File Included
 
 - `Product-Sales.pbix` – Main Power BI dashboard file.
+- `Product-Sale.zip` – Zipped folder with the `.pbix` and supporting assets (if any)
 
 ## 📊 Features
 
